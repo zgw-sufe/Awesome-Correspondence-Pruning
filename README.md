@@ -76,5 +76,4 @@ The core task is to filter or weight tentative two-view correspondences, typical
 
 ## Surveys and Benchmarks
 
-- RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges — [CVPR 2025](https://arxiv.org/pdf/2502.19955) · [Code](https://github.com/thibautloiseau/RUBIK)
 - Deep Learning Reforms Image Matching: A Survey and Outlook — [arXiv 2025](https://arxiv.org/pdf/2506.04619)
