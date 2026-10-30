@@ -73,6 +73,7 @@ The core task is to filter or weight tentative two-view correspondences, typical
 - [N3Net] Neural Nearest Neighbors Networks — [NeurIPS 2018](https://proceedings.neurips.cc/paper_files/paper/2018/file/f0e52b27a7a5d6a1a87373dffa53dbe5-Paper.pdf) · [Code](https://github.com/visinf/n3net/)
 - High-dimensional Convolutional Networks for Geometric Pattern Recognition — [CVPR 2020 Oral](https://arxiv.org/pdf/2005.08144) · [Code](https://github.com/chrischoy/HighDimConvNets)
 - Neural3D: Light-weight Neural Portrait Scanning via Context-aware Correspondence Learning — [MM 2020](https://qianghu-huber.github.io/qianghuhomepage/paper/MM1.pdf)
+- ZZ-Net: A Universal Rotation Equivariant Architecture for 2D Point Clouds — [CVPR 2022](https://arxiv.org/pdf/2111.15341) · [Code](https://github.com/georg-bn/zz-net/tree/main)
 
 ## Surveys and Benchmarks
 
